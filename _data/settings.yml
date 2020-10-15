@@ -19,7 +19,7 @@ footer_settings:
   tagline: 
 
 hero_settings:
-  background_image: /images/backgrounds/background-hero.svg
+  background_image: /images/backgrounds/MWD-background.svg
 
 post_settings:
   grid_spacing: 10
