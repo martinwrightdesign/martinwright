@@ -17,7 +17,9 @@ As soon as I decided that, more work came in. Fortunately however it was to upda
 ### Switching to Jekyll
 Being able to learn the ins and outs of the system as part of that job I decided to take the plunge and finally switch over. This website is the fruits of that decision. 
 
-My intention with this site is that is be a living Portfolio of my work. As I complete projects, I intend to add the case studies as I go and keep it updated - we shall see how that pans out, but the will is there. I'll also be enhancing this site as I go, something online is better than nothing and my Wordpress site had grown long in the tooth. My goal is to keep the site lean, quick to load and easy to update. No database, no complex javascript, just back to where I started with the web - HTML and CSS. 
+My intention with this site is that is be a living Portfolio of my work. I'm splitting out the freelance side of it and keeping a clear deliniation. 
+
+As I complete projects, I intend to add the case studies as I go and keep it updated - we shall see how that pans out, but the will is there. I'll also be enhancing this site as I go, something online is better than nothing and my Wordpress site had grown long in the tooth. My goal is to keep the site lean, quick to load and easy to update. No database, no complex javascript, just back to where I started with the web - HTML and CSS. 
 
 As for the blog functionality, I'm not sure what that will become yet if anything. But I intend to document any gotchas with the process, any useful aspects I may want to refer back to and then see what happens. 
 
