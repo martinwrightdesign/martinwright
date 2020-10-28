@@ -27,7 +27,7 @@ post_settings:
 contact_settings:
   email_address: ''
   form_action: 'https://formspree.io/xyybywyz'
-  confirmation_url: '/thanks'
+  confirmation_url: 'https://martinwright.design/thanks'
   email_subject: 'martinwright.design contact form'
   send_button_text: 'Get in Touch'
 
