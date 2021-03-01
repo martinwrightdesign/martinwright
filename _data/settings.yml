@@ -182,4 +182,4 @@ advanced_settings:
   analytics_code: ""
   custom_styles: ""
   header_js: ""
-  footer_js: ""
+  footer_js: '<script src="/js/darkmode.js"></script>'

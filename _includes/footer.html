@@ -2,7 +2,7 @@
 	<div class="wrap grid">
 
 		{% if site.data.settings.footer_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="footer__logo">
+		<a href="{{ site.baseurl }}/" class="footer__logo" aria-label="Back to home page">
 			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img" alt="Martin Wright Design">
 		</a>
 		{% else %}

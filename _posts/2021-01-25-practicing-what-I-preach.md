@@ -26,7 +26,7 @@ An hour or so minor tweaks, and a more extensive than I had hoped dive into the 
 ### Now onto darkmode!
 Able to now say that at least my site is pretty accessible, onto what I actually wanted to look at - adding a dark mode toggle. 
 
-Researching the best methods for implimenting this I came across an article on the ever-useful CSS tricks. [Read the article.]({https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/}) This exhaustive article really does cover everything you could need to know about implimenting a dark mode, including supporting the 'prefers-color-scheme' functionality.
+Researching the best methods for implimenting this I came across an article on the ever-useful CSS tricks. [Read the article.](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/) This exhaustive article really does cover everything you could need to know about implimenting a dark mode, including supporting the 'prefers-color-scheme' functionality.
 
 So that's the next plan for this site, a user friendly toggle that respects the users presets. Lets see how that pans out!
 
