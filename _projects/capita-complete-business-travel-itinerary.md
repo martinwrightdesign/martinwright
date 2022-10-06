@@ -9,7 +9,7 @@ gallery_images:
   - mobile-itinerary-masthead.jpg
 ---
 
-**Designed for a leading business travel company this app combines the traveller’s complete trip in one place giving them their complete itinerary and all the information they need, when they need it.**
+**Designed for a leading business travel company this app combines the traveller’s complete trip in one place — giving them their complete itinerary and all the information they need, when they need it.**
 
 ### Scope
 
