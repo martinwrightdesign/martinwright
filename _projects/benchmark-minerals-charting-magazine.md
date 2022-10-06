@@ -1,7 +1,7 @@
 ---
 title: Battery mineral intelligence platform
 subtitle: Price reporting & market intelligence for lithium ion battery, electric vehicle & energy storage supply chains. 
-date: 2020-10-15 00:00:00
+date: 2022-02-05 00:00:00
 description: An accessible platform built for the leading price reporting agency. It showcases expert opinion and allows users to interrogate, chart and download data on materials used in lithium ion batteries, electric vehicles (EV) and energy storage. 
 featured_image: minerals-charting-masthead.jpg
 accent_color: '#ffc534'
