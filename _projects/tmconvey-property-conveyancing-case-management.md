@@ -39,7 +39,7 @@ Once the concepts were proven with the users, we stepped up to prototype stage. 
 ### Selected Highlights
 
 ##### An easily managed case load
-![Screenshot of the Case Interface](/images/projects/simple-case-interface.jpg)
+![Screenshot of the Case Interface](Images/projects/simple-case-interface.jpg)
 
 From the interviews I aimed to understand how the users worked, regardless of the system employed. One of the early findings was the often users are working on a group of cases, much of their work is reactive based on information received – this became an early target of the team’s efforts. 
 
@@ -48,7 +48,7 @@ We prototyped a switch from a traditional ‘list’ of cases to a paradigm more
 > “We like the new tmconvey platform and find it very easy to use. It is colourful and easy to find your way around. ”
 
 ##### Easy to read case summaries - that you don't need a law degree to understand
-![Printable Case Summary](/images/projects/printable-case-summary.jpg)
+![Printable Case Summary](Images/projects/printable-case-summary.jpg)
 The legal secretaries using tmconvey often have to get signed approval before incurring charges on client cases, previously this required them to print out a lengthy and complicated document, that only showed costs before presenting it to the client for approval. 
 
 I redesigned the new look summary to include all the case information, along with the associated costs in a simple, familiar format that clients could easily interpret and approve; saving valuable time for the users and stress for the clients. 

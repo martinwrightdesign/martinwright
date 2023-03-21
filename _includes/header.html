@@ -3,11 +3,11 @@
 	<div class="wrap grid__2-col">
 
 		{% if site.data.settings.header_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="header__logo" aria-label="Back to homepage">
+		<a href="{{ site.baseurl }}" class="header__logo" aria-label="Back to homepage">
 			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img" alt="Martin Wright Design">
 		</a>
 		{% else %}
-		<a href="{{ site.baseurl }}/" class="header__title">
+		<a href="{{ site.baseurl }}" class="header__title">
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
 		{% endif %}

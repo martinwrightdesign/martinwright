@@ -2,7 +2,7 @@
 title: Designing in the open - a switch to Jekyll and Static Site Generators
 date: 2020-10-28 00:00:00
 description: Putting my money where my mouth is, I'm designing my new portfolio in the open. I'll be documenting the progress here, along with anything of note I discover along the way.
-featured_image: '/images/just-chaos.jpg'
+featured_image: 'Images/just-chaos.jpg'
 ---
 
 This website has gone through many iterations of itself, it has been both my portfolio and a fully fledged 'marketing' site for my freelancing. I've used it as a means to test new techniques and to validate approaches for clients, this time, and this new iteration is working the other way. 
