@@ -36,7 +36,7 @@ With such tight deadlines we were unable to spend the desired time in a discover
 I embarked on a series of clickable prototypes, initially to emulate the paper form closely. However we quickly discovered that the API didn't correspond directly with the paper form, and had additional dependencies and requirements that weren't present with the manual submission.  This ultimately proved more confusing for the users as they struggled to reconcile these difference. 
 
 With that in mind, I approached it in a new way - leaving the older paper forms behind. Taking all the requirements of the new API and structuring it into a logical grouping of linear steps, each dealing with an aspect of the transaction in turn, I produced a new prototype. User testing on this was much more successful, with even non-specialist staff able to interpret the requirements and complete the form. 
-![Screenshot of Step Functionality in SDLT](Images/projects/sdlt-steps-corner.jpg)
+![Screenshot of Step Functionality in SDLT](images/projects/sdlt-steps-corner.jpg)
 
 > “Submitting SDLT forms is much easier on tmconvey, as it pulls through information from the case such as the property address, which is good. I like the layout of the SDLT form too, which makes it easier for our fee earners and our clients to understand, so they can approve the information easily. ”
 
@@ -50,7 +50,7 @@ Fortunately at this stage, following the successful testing with SDLT we had an 
 
 Quickly producing XD prototypes based off a now established pattern from SDLT we were quickly able to validate the new service and start production in an aggressive week long sprint cycle. I worked one week ahead of the development team, validating the next phase with users before passing it on to production. 
 
-![AP1 Screenshot](Images/projects/start-ap1.jpg)
+![AP1 Screenshot](images/projects/start-ap1.jpg)
 
 > “By the time you get to the AP1 form, and have already completed your searches and your SDLT, it copies across the agent details, property address, and copies across the SDLT5 too – so you don’t have to scan and save.”
 

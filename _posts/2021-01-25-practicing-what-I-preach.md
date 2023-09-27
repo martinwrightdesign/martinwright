@@ -2,7 +2,7 @@
 title: Practicing what I preach and being more accessible
 date: 2021-01-25 00:00:00
 description: Having neglected accessibility for speed, I'm now retrofitting enhancements to this site, but first lets address my terrible lighthouse score
-featured_image: 'Images/accessibility.jpg'
+featured_image: 'images/accessibility.jpg'
 ---
 
 As I mentioned in the [first post here]({% post_url 2020-09-22-a-new-start %}), this website was stiched together at speed to update what was an creaking old Wordpress site. Unfortunately, I didn't take my own advice and build without accessibility as a primary concern - now I'm working to address that. 
@@ -12,7 +12,7 @@ I started by wanting to add a dark mode, and out of curiosity ran a Lighthouse a
 ### Just how bad is it? 
 According to Lighthouse, it isn't great. 
 
-![Poor Initial Lighthouse score](Images/initial-lighthouse.jpg)
+![Poor Initial Lighthouse score](images/initial-lighthouse.jpg)
 
 I'm less concerned initially about the performance, a cursory glance spots some easy wins there. To be fair to me, some of them are a hold over from the theme I have based the site on, but I will aim to address them as soon as possible.
 
@@ -20,7 +20,7 @@ However, the accesibility score of 65 does raise some eyebrows!
 
 An hour or so minor tweaks, and a more extensive than I had hoped dive into the slider plugin I am using and we now have a much better score. 
 
-![Lighthouse accessibilty score improved to 97](Images/lighthouse-2.jpg)
+![Lighthouse accessibilty score improved to 97](images/lighthouse-2.jpg)
 
 
 ### Now onto darkmode!

@@ -3,7 +3,7 @@ layout: default
 overtitle: Product & UX Design
 title: Hi, I'm Martin...
 description: I’m a designer. I help businesses get set up online, build new apps and websites or improve what they already have.
-featured_image: Images/social.jpg
+featured_image: images/social.jpg
 ---
 
 <div class="page-home">
@@ -38,7 +38,7 @@ featured_image: Images/social.jpg
 
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}" aria-label="View Project Details"><img src="{{ 'Images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					<a href="{{ project.url | relative_url }}" aria-label="View Project Details"><img src="{{ 'images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
 				</div>
 

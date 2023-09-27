@@ -27,11 +27,11 @@ Speaking with stakeholders in the business, and a small selection of users we pr
 
 Following the workshops we were able to prioritise the enhancement list and move to prototype phase. A series of wireframes were created and evaluated internally, before moving onto prototype phase. Two key elements were tested with the group, the core charting functionality and a shop-like account management facility allowing users to upgrade and manage their own subscription. 
 
-![Sketch explorations](Images/projects/mineral-charting.jpg)
+![Sketch explorations](images/projects/mineral-charting.jpg)
 
 Following testing, one of the prototypes was eliminated and the approach for charting was finalised. I moved to improve the readability of the magazine and opinion pieces, applying the new branding and a consistant design.
 
-![Magazine and opinion functionality](Images/projects/minerals-charting-masthead-2.jpg)
+![Magazine and opinion functionality](images/projects/minerals-charting-masthead-2.jpg)
 
 A final prototype was shared with the focus group to validate the suggestions and finally designs were handed off to the internal development resource.
 
