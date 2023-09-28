@@ -5,6 +5,7 @@ date: 2021-10-15 00:00:00
 description: Designed for a leading business travel company this app combines the traveller’s complete trip in one place giving them their complete itinerary and all the information they need, when they need it. 
 featured_image: mobile-itinerary-masthead.jpg
 accent_color: '#00395F'
+published: false
 gallery_images:
   - mobile-itinerary-masthead.jpg
 ---
