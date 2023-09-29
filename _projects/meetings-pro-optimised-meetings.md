@@ -1,16 +1,16 @@
 ---
-title: Battery mineral intelligence platform
-subtitle: Price reporting & market intelligence for lithium ion battery, electric vehicle & energy storage supply chains. 
-date: 2022-02-05 00:00:00
-description: An accessible platform built for the leading price reporting agency. It showcases expert opinion and allows users to interrogate, chart and download data on materials used in lithium ion batteries, electric vehicles (EV) and energy storage. 
+title: Optimised meetings management
+subtitle: Reducing costs with an accessible web based management tool. 
+date: 2024-02-05 00:00:00
+description: An award winning meetings management tool, supporting a strategic and simple process to increase policy compliance, identify trends and improve value and efficiency.
 featured_image: minerals-charting-masthead.jpg
-accent_color: '#ffc534'
+accent_color: '#FF22A6'
 gallery_images:
   - minerals-charting-masthead.jpg
   - minerals-charting-masthead-2.jpg
 ---
 
-**An accessible platform built for the leading price reporting agency. It showcases expert opinion and allows users to interrogate, chart and download data on materials used in lithium ion batteries, electric vehicles (EV) and energy storage.**
+**An award winning meetings management tool, supporting a strategic and simple process to increase policy compliance, identify trends and improve value and efficiency.**
 
 ### Scope
 
@@ -27,11 +27,11 @@ Speaking with stakeholders in the business, and a small selection of users we pr
 
 Following the workshops we were able to prioritise the enhancement list and move to prototype phase. A series of wireframes were created and evaluated internally, before moving onto prototype phase. Two key elements were tested with the group, the core charting functionality and a shop-like account management facility allowing users to upgrade and manage their own subscription. 
 
-![Sketch explorations](/images/projects/mineral-charting.jpg)
+![Sketch explorations](images/projects/mineral-charting.jpg)
 
 Following testing, one of the prototypes was eliminated and the approach for charting was finalised. I moved to improve the readability of the magazine and opinion pieces, applying the new branding and a consistant design.
 
-![Magazine and opinion functionality](/images/projects/minerals-charting-masthead-2.jpg)
+![Magazine and opinion functionality](images/projects/minerals-charting-masthead-2.jpg)
 
 A final prototype was shared with the focus group to validate the suggestions and finally designs were handed off to the internal development resource.
 
