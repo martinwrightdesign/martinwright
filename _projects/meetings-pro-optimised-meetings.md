@@ -1,13 +1,14 @@
 ---
 title: Optimised meetings management
-subtitle: Reducing costs with an accessible web based management tool. 
+subtitle: Reducing meeting costs and increasing value with an accessible web based management tool. 
 date: 2024-02-05 00:00:00
-description: An award winning meetings management tool, supporting a strategic and simple process to increase policy compliance, identify trends and improve value and efficiency.
-featured_image: minerals-charting-masthead.jpg
+description: An award winning meetings management tool, offering organisers full control over their meetings, supporting policy compliance, identifying trends and increasing efficiency. 
+featured_image: meetings-pro1.jpg
 accent_color: '#FF22A6'
 gallery_images:
-  - minerals-charting-masthead.jpg
-  - minerals-charting-masthead-2.jpg
+  - meetings-pro1.jpg
+  - meetings-pro2.jpg
+  - meetings-pro3.jpg
 ---
 
 **An award winning meetings management tool, supporting a strategic and simple process to increase policy compliance, identify trends and improve value and efficiency.**
