@@ -10,6 +10,28 @@ gallery_images:
   - yourplacement2.jpg
 ---
 
+---
+
+**This case study is a little different in that it focuses on a company I co-founded. The focus isn't just on the UX of the product, but also the wider view. Experiences running it, working with others, overcoming problems, and ultimately — spoilers; failing.**
+**With that in mind, lets start with what I learned:**
+
+---
+
+### Lessons learned
+I have of course learnt a great deal through the Your Placement journey. 
+- I've secured funding from two separate local government authorities
+- Formed a company with ex colleagues 
+- Pitched to a multinational conglomerate 
+- Flirted with acquisition
+- Had to make the hard decision to part ways with an original founder 
+- Learnt to not comprimise on quality
+- Recruited a new technical cofounder!
+- Rebuilt a platform in weeks from the ground up! 
+- Tried, and tried again
+- Realised when it's time to stop... for now. 
+
+### Background
+
 **Founded with two ex-colleagues, I built a platform to match school students with available work experience placements in a way that mimicked the real job hunt process.**
 
 ### The problem to solve
@@ -78,17 +100,7 @@ The original intention had been for schools to pay a nominal per-student fee in 
 
 This just isn't the right time for it, with the background of the cost-of-living crisis and multiple redundancies, companies just can't commit the time to host work experience students. Similarly schools with ever tightening budgets focus on core curriculum. It is with a heavy heart we decided to pull the plug on YourPlacement.  
 
-### Lessons learned
-I have of course learnt a great deal through the Your Placement journey. 
-- I've secured funding from two separate local government authorities
-- Formed a company with ex colleagues 
-- Pitched to a multinational conglomerate 
-- Flirted with acquisition
-- Had to make the hard decision to part ways with an original founder 
-- Recruited a new technical cofounder!
-- Rebuilt a platform in weeks from the ground up! 
-- Tried, and tried again
-- Realised when it's time to stop... for now. 
+
 
 
 

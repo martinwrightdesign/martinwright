@@ -27,7 +27,7 @@ With a clear aim and armed with statistics on the companies travellers I identif
 - **Regular travellers**, these will travel less often, and usually to one or two destinations, often by the same route and staying in the same hotels.
 - **Infrequent travellers**, these only travel rarely, perhaps for annual industry events or one off visits. They’re unsure of the travel networks and unfamiliar with the hotels they might stay at. 
 
-![Sketch explorations](images/projects/travel-personas.jpg)
+![Sketch explorations](/images/projects/travel-personas.jpg)
 
 Having identified these personas I sourced an example user from each and arranged interviews. 
 
@@ -35,7 +35,7 @@ The interviews firstly asked the users to talk about their experiences travellin
 
 With the output from these interviews I was able to map these concerns and key information to a user flow, before moving onto a wire framing stage. 
 
-![Sketch explorations](images/projects/travel-user-journey.jpg)
+![Sketch explorations](/images/projects/travel-user-journey.jpg)
 
 I sought to create a simple linear timeline that would surface the relevant information for the customer based on information the app can gather from their device and apis such as; Location, Time and Delays identified on their route. 
 

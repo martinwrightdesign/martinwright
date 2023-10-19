@@ -25,7 +25,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: 'mw@thisdomainyourevisiting.com'
+  email_address: 'mw at martinwrightdesign dot com'
   form_action: 'https://formspree.io/xyybywyz'
   confirmation_url: 'https://martinwright.design/thanks'
   email_subject: 'martinwright.design contact form'
