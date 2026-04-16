@@ -28,7 +28,7 @@ These initial interviews identified a number of areas where users had issues wit
 - Bookers would have to communicate these plans manually to all invities.
 - There was no oversight for managers. 
 
-With these finding in mind, along with the inhouse behaviourial psychologist we prioritised some key functionality for the platform:
+With these findings in mind, along with the inhouse behaviourial psychologist we prioritised some key functionality for the platform:
 - Policy integration, users should only be able to book items that fall within their policy and allowances. 
 - Take into account the travel time for all delegates and prioritise options which minimise travel for everyone.
 - Live data and availability. Where possible show the rates and availability of venues and delgates. 

@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Martin Wright - Product & UX Designer
+  site_title: Martin Wright - Lead Product Designer building complex data-driven products
   favicon_image: images/favicon.png
 
 header_settings:
@@ -19,7 +19,7 @@ footer_settings:
   tagline: 
 
 hero_settings:
-  background_image: images/backgrounds/MWD-background.svg
+  background_image: 
 
 post_settings:
   grid_spacing: 10
@@ -76,9 +76,9 @@ font_settings:
   regular_weight: 400
   bold_weight: 700
   site_title:
-    small_size: 30
-    medium_size: 40
-    large_size: 45
+    small_size: 22
+    medium_size: 28
+    large_size: 30
     weight: 700
     letter_spacing: -0.02
   menu:
@@ -88,24 +88,24 @@ font_settings:
     weight: 600
     letter_spacing: 0
   h1:
-    size: 64
-    size_small: 42
+    size: 30
+    size_small: 24
     weight: 700
     letter_spacing: -1.5
     letter_spacing_small: -1.2
-    line_height: 72
-    line_height_small: 48
+    line_height: 40
+    line_height_small: 28
   h2:
-    size: 48
-    size_small: 36
+    size: 28
+    size_small: 28
     weight: 700
     letter_spacing: -1.6
     letter_spacing_small: -1.04
     line_height: 56
     line_height_small: 44
   h3:
-    size: 40
-    size_small: 30
+    size: 24
+    size_small: 24
     weight: 700
     letter_spacing: -1.4
     letter_spacing_small: -0.54
@@ -133,8 +133,8 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   subtitle:
-    size: 22
-    size_small: 20
+    size: 18
+    size_small: 16
     weight_regular: 400
     weight_heavy: 500
     letter_spacing: 0.16
@@ -142,15 +142,15 @@ font_settings:
     line_height: 32
     line_height_small: 28
   p:
-    size: 18
-    size_small: 17
+    size: 16
+    size_small: 14
     weight: 400
     letter_spacing: 0.04
     letter_spacing_small: 0
     line_height: 28
   p_small:
-    size: 16
-    size_small: 15
+    size: 14
+    size_small: 13
     weight: 400
     letter_spacing: 0
     line_height: 24
@@ -167,9 +167,9 @@ font_settings:
     letter_spacing: -0.04
     line_height: 12
   blockquote:
-    small_size: 22
-    medium_size: 30
-    large_size: 38
+    small_size: 18
+    medium_size: 20
+    large_size: 20
     weight: 500
     letter_spacing: -0.02
     line_height: 1.6

@@ -15,7 +15,7 @@
 
 	.title {
 		margin-bottom: 24px;
-		max-width: 380px;
+		max-width: 100%;
 	}
 
 	.title .subtitle {
@@ -24,7 +24,7 @@
 
 	.intro {
 		position: relative;
-		max-width: 340px;
+		max-width: 100%;
 	}
 
 	.hero__cta {
@@ -41,14 +41,14 @@
 		}
 
 		.title {
-			margin-bottom: 0;
-			max-width: none;
+			margin-bottom: 1.6rem;
+			max-width: 80%;
 		}
 
 		.intro {
 			align-self: end;
 			margin-bottom: -80px;
-			max-width: 458px;
+			max-width: 80%;
 		}
 
 		.hero__cta {

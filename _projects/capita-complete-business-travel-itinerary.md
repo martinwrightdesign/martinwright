@@ -1,6 +1,6 @@
 ---
 title: Complete business travel itinerary
-subtitle: Taxi, train, hire car, flight and accommodation details all available to the traveller just when they need it.
+subtitle: Taxi, train, hire car, flight & accommodation details all available to the traveller just when they need it.
 date: 2021-10-15 00:00:00
 description: Designed for a leading business travel company this app combines the traveller’s complete trip in one place giving them their complete itinerary and all the information they need, when they need it. 
 featured_image: mobile-itinerary-masthead.jpg
@@ -14,7 +14,7 @@ gallery_images:
 
 ### Scope
 
-The business travel company was going through a digital transformation, the industry was modernising with e-tickets and apps and they were looking to bring together the separate business arms,  which had recently completed APIs. The company was also seeking to differentiate itself with a renewed focus on not just being the cheapest, but on doing the best for their travellers 
+The business travel company was going through a digital transformation, the industry was modernising with e-tickets and apps and they were looking to bring together the separate business arms,  which had recently completed APIs. The company was also seeking to differentiate itself with a renewed focus on not just being the cheapest, but on doing the best for their travellers. 
 
 A key pain point identified often in their feedback was was disparate collection of email booking confirmations, e-tickets and phone numbers a business traveller needs to manage on a typical overnight trip - this is the key focus of the app - to make this routine travel as painless as possible and reinforce the company’s aim of putting the traveler first. 
 

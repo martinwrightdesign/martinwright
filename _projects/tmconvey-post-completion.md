@@ -2,7 +2,7 @@
 title: Post Completion services
 subtitle: Digitising SDLT and AP1 with a first-to-market web app for property lawyers. 
 date: 2019-07-17 00:00:00
-description: The Post Completion service was the first of a series of modules available for the newly designed tmconvey platform, and tmgroup's first branch out beyond the core of the conveyancing transaction. Post completion is a service which registers a new home purchase with the Land Registry and then ensures all relevant tax is paid. 
+description: A project to launch  the Post Completion service, the first of a series of modules available for the newly designed tmconvey platform. Developed alongside the government API it interacts with this service registers a new home purchase with the Land Registry and ensures all relevant tax is paid. 
 featured_image: postcompletion-masthead.jpg
 accent_color: '#ea4d57'
 gallery_images:
